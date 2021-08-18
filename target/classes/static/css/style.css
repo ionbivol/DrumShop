@@ -1,0 +1,17 @@
+
+
+.card {
+    padding: 5px;
+    margin: 5px;
+}
+body {
+    margin: 0;
+    background: #e5e1e1;
+    font-family: "work s";
+    font-weight: 300;
+}
+
+nav{
+    background-color: #3aa23a;
+
+}
